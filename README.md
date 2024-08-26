@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Caleb Walker
+- 👀 I’m interested in Game design and Python based codeing 
+- 🌱 I’m currently learning How to use Godot, discord bots, and google API
+- 😄 Pronouns: He/ Him
